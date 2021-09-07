@@ -1,0 +1,21 @@
+{
+    "name": "martin1982/api-client-stack",
+    "description": "API Client stacker",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Martin1982\\ApiClientStack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin de Keijzer",
+            "email": "martin.dekeijzer+apiclientstack@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "psr/http-message": "^1.0"
+    }
+}
