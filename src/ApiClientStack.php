@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 /**
- * api-client - All rights reserved
+ * api-client
  */
 namespace Martin1982\ApiClientStack;
 

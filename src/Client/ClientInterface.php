@@ -1,11 +1,15 @@
 <?php declare(strict_types=1);
 
+/**
+ * api-client
+ */
+
 namespace Martin1982\ApiClientStack\Client;
 
 use Psr\Http\Message\ResponseInterface;
 
 /**
- * api-client - All rights reserved
+ * Interface ClientInterface
  */
 interface ClientInterface
 {

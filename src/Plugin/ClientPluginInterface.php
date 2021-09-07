@@ -1,11 +1,15 @@
 <?php declare(strict_types=1);
 
+/**
+ * api-client
+ */
+
 namespace Martin1982\ApiClientStack\Plugin;
 
 use Martin1982\ApiClientStack\Client\ClientInterface;
 
 /**
- * api-client - All rights reserved
+ * Interface ClientPluginInterface
  */
 interface ClientPluginInterface
 {
